@@ -1,0 +1,17 @@
+node_modules/
+npm-debug.log
+
+.idea
+
+Thumbs.db
+.DS_Store
+
+*.swp
+*.backup
+*.orig
+*.bak
+*~
+
+*.cfg
+
+out/
